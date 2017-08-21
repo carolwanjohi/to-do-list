@@ -7,6 +7,15 @@
 ## Description
 This displays the work done at [Moringa School](http://moringaschool.com/) by [Nason Mang'eli](https://github.com/nasonmangeli) and [Carol Wanjohi](https://carolwanjohi.github.io/). It is webpage that enables users to create **To Do** lists and indicate when a task is completed. The aim is to practise creating objects using constructors.
 
+## Behaviour
+Add item to To Do list
+- Input: Clean the car
+- Output: Clean the car
+
+Delete item from To Do list
+- Input: Clean the car, Clean the house, Wash the dog
+- Output: Clean the car, Wash the dog
+
 ## Known Bugs
 
 No known bugs.
