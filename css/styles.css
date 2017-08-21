@@ -1,0 +1,16 @@
+#show-TaskItem {
+    display: none;
+  }
+
+  .task {
+    cursor: pointer;
+    color: #0088cc;
+  }
+
+  .task:hover {
+    text-decoration: underline;
+  }
+
+  #deleteTaskButton{
+    margin-left: 2%;
+  }
