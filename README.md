@@ -5,7 +5,7 @@
 ## By **[Nason Mang'eli](https://github.com/nasonmangeli) and [Carol Wanjohi](https://carolwanjohi.github.io/)**
 
 ## Description
-This displays the work done at [Moringa School](http://moringaschool.com/) by [Nason Mang'eli](https://github.com/nasonmangeli) and [Carol Wanjohi](https://carolwanjohi.github.io/). It is webpage that enables users to create **To Do** lists and indicate when a task is completed. The aim is to practise creating objects using constructors.
+This is a webpage that enables users to create **To Do** lists and indicate when a task is completed. The aim is to practise creating objects using constructors.
 
 ## Behaviour
 Add item to To Do list
